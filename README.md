@@ -2,7 +2,6 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,flutter,nodejs,react,unity,python&theme=light)](#)
 
 ## 포트폴리오 Porfolio
-🏆 구름톤 9기 최우수상 (카카오, 구름 주관)  
 🚀 Nasa Space Apps in 판교  
 🕹️ **Jump Jump** 개발      
 🕹️ **Level Down** 개발  
