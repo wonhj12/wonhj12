@@ -9,4 +9,5 @@
 🕹️ **Copy Cat&Dog** 프로젝트 매니저  
 
 ## 프로필
+[![포트폴리오](https://skillicons.dev/icons?i=notion)](https://toroto.notion.site/1dc8e09429904dda9fbb6e5e78f3858f)
 [![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhj12)](#)
