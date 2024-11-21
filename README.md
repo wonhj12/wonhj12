@@ -17,15 +17,14 @@
   🕹️ **Copy Cat&Dog** 프로젝트 매니저  
   
   <br/>
-  
-  <a href="https://github.com/devxb/gitanimals">
+
+  <a href="#">
     <img
-      src="https://render.gitanimals.org/lines/wonhj12?pet-id=647257695591848462"
+      src="https://render.gitanimals.org/lines/wonhj12"
       width="600"
       height="120"
     />
   </a>
-
 
   [![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhj12&rank_icon=github&title_color=6884b9&border_radius=10)](#)    
 </div>
