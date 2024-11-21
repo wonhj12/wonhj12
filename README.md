@@ -18,5 +18,14 @@
   
   <br/>
   
-  [![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhj12&rank_icon=github&title_color=6884b9&border_radius=10)](#)
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/wonhj12?pet-id=647257695591848462"
+      width="600"
+      height="120"
+    />
+  </a>
+
+
+  [![Hajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhj12&rank_icon=github&title_color=6884b9&border_radius=10)](#)    
 </div>
