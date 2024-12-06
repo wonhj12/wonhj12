@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![header](https://capsule-render.vercel.app/api?type=venom&color=6884b9&text=Hajin%&fontColor=ffffff&height=240)](https://toroto.notion.site/1dc8e09429904dda9fbb6e5e78f3858f)
+  [![header](https://capsule-render.vercel.app/api?type=venom&color=6884b9&text=Hajin%&fontColor=ffffff&height=240)](https://toroto.notion.site)
 
   ### 언어 스택 Language Stacks
   [![My Skills](https://skillicons.dev/icons?i=swift,flutter,nodejs,react,unity,python&theme=light)](#)
