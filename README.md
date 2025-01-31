@@ -3,7 +3,7 @@
   [![header](https://capsule-render.vercel.app/api?type=venom&color=6884b9&text=Hajin%&fontColor=ffffff&height=240)](#)
 
   ### 언어 스택 Language Stacks
-  [![My Skills](https://skillicons.dev/icons?i=swift,flutter,nodejs,react,unity,python&theme=light)](#)
+  [![My Skills](https://skillicons.dev/icons?i=swift,flutter,nodejs,unity,python&theme=light)](#)
   <br/>
   
   ### 해커톤 Hackathon
