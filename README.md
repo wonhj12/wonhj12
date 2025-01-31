@@ -4,18 +4,20 @@
 
   ### 언어 스택 Language Stacks
   [![My Skills](https://skillicons.dev/icons?i=swift,flutter,nodejs,react,unity,python&theme=light)](#)
-  
   <br/>
   
-  ### 포트폴리오 Porfolio
+  ### 해커톤 Hackathon
   🏆 구름톤 9기 최우수상 (카카오, 구름 주관)  
   🚀 Nasa Space Apps in 판교  
   💬 Hacky Talky 3기 (채널톡 주관)  
   🏫 inThon (고려대학교 정보대학 주관)  
-  🕹️ **Jump Jump** 개발      
-  🕹️ **Level Down** 개발  
-  🕹️ **Copy Cat&Dog** 프로젝트 매니저  
-  
+
+  ### 프로젝트 Projects
+  반려견 여행지 추천 서비스 **강생이랑**  
+  육류 맛 예측 서비스 **Deeplant**  
+  **Jump Jump**  
+  **Level Down**  
+  **Copy Cat&Dog** 프로젝트 매니저  
   <br/>
 
   <a href="#">
